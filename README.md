@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @fidarms, or Fidèle
+- 👋 Hi, I’m Fidèle (pronounced as fee-dell)
 - 👀 I’m interested in machine learning, data analytics and product
 - 🌱 I’m currently learning Looker and Python
-- 💞️ I’m looking to collaborate on data analytics projects and building user-friendly yet powerful applications
+- 💞️ I’m looking to collaborate on data analytics projects and building user-friendly products
 
 
 <!---
